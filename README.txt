@@ -1,0 +1,1 @@
+Este projeto tem como objetivo mostrar minha apredizagem e conhecimentos adiquiridos com o curso da Alura de data science, machine learn e redes neurais.
